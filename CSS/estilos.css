@@ -8,11 +8,29 @@ body {
     border: 1px solid black;
     width: 70%;
     font-family: 'Courier New', Courier, monospace;
-    padding: 1em;
+    padding: 0em;
     text-align: left;
     margin: 0 auto;
 }
 
 #container h1{
     font-size: 20px;
+}
+
+#cabecera{
+    background-color: blue;
+    color: aliceblue;
+    padding: 1rem;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    margin: 0 auto;
+}
+
+#tagline{
+    font-weight: 400;
+    margin: 10px 10px 10px 10px;
+    font-size: 0.8rem;
+}
+#post{
+    padding: 1rem ;
 }
