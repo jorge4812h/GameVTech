@@ -2,10 +2,14 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: black;
+    background-color: #1e1f24;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
-    border: 1px solid black;
+    border: 1px solid #DDD;
     width: 70%;
     font-family: 'Courier New', Courier, monospace;
     padding: 0em;
@@ -17,20 +21,26 @@ body {
     font-size: 20px;
 }
 
+#logo{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera{
-    background-color: blue;
+    background-color: rgb(45, 45, 156);
     color: aliceblue;
-    padding: 1rem;
+    padding: 0.5rem;
     font-weight: bold;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
     margin: 0 auto;
 }
 
 #tagline{
-    font-weight: 400;
-    margin: 10px 10px 10px 10px;
+    padding: 0 0 0 1rem;
+    font-weight: normal;
     font-size: 0.8rem;
 }
 #post{
     padding: 1rem ;
+    background: white;
 }
