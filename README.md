@@ -15,4 +15,4 @@ Blog para el curso Profesional de Git y Github de Platzi.
 * Pull request
 * Respositorios locales y remotos
 * Creado por Platzzi Team
-
+* Ejemplos en windows linux y MAC
