@@ -14,3 +14,5 @@ Blog para el curso Profesional de Git y Github de Platzi.
 * Flujos de trabajo
 * Pull request
 * Respositorios locales y remotos
+* Creado por Platzzi Team
+
