@@ -16,3 +16,5 @@ Blog para el curso Profesional de Git y Github de Platzi.
 * Respositorios locales y remotos
 * Creado por Platzzi Team
 * Ejemplos en windows linux y MAC
+* Disponible para todas las edades
+
